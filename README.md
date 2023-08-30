@@ -48,6 +48,8 @@ Guía de estudio para aprender Langchain:
 # Instalación
 Ejecuta estos comandos para instalar las librerías necesarias de la guía de estudio
 
+`pip install python-dotenv`
+
 `pip install langchain`
 
 `pip install openai`
